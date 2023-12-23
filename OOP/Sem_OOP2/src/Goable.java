@@ -1,5 +1,3 @@
-import java.io.Serializable;
-
 @FunctionalInterface
 public interface Goable {
     public final static int i = 0;
