@@ -1,11 +1,18 @@
 import java.time.LocalDate;
 
-public class Nurse extends Doctor {
+public class Nurse {
+    protected String name;
+    protected LocalDate birthDate;
+    protected String univesity;
+    protected String type;
+
     public Nurse(String name, LocalDate birthDate, String univesity) {
-        super(name, birthDate, univesity);
+        this.name = name;
+        this.birthDate = birthDate;
+        this.univesity = univesity;
+        this.type = getClass().getSimpleName();
     }
 
-    @Override
     public String work() {
         System.out.printf("%s - helping Doctor", type);
         return type;

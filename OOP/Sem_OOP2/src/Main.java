@@ -22,6 +22,11 @@ public class Main {
 
         // Создаем Ветеринарную клинику
         VeterinaryClinic clinic = new VeterinaryClinic();
+        // Создаем Доктора и медсестру
+        Doctor james = new Doctor("James", LocalDate.of(1983, 6, 6), "Medical University");
+        Nurse dasha = new Nurse("Dasha", LocalDate.of(1983, 6, 6), "Nurse Technikum");
+        System.out.println("\nВ Клинике работает Доктор " + james.name);
+        System.out.println("\nВ Клинике Доктору " + james.name + " помогает Медсестра " + dasha.name);
 
         clinic.addPatients(cat, eagle, penguin, duck, fish);
         System.out.println("\nВ Клинике есть следующие пациенты:\n" + clinic.getPatients());

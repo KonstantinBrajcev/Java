@@ -1,6 +1,6 @@
 import java.time.LocalDate;
 
-public abstract class Doctor {
+public class Doctor {
     protected String name;
     protected LocalDate birthDate;
     protected String univesity;
