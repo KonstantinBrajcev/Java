@@ -4,29 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="840668bf-c194-48ff-a6b8-905fcc45c49d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Pharmacy/Component.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Pharmacy/ComponentIterator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Pharmacy/IterablePharmacy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Pharmacy/Pharmacy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Pharmacy/PharmacyMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Pharmacy/README_2.MD" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="840668bf-c194-48ff-a6b8-905fcc45c49d" name="Changes" comment="OOP3">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Lesson01/Animal.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Lesson01/Animal.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Lesson01/Cat.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Lesson01/Cat.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Lesson01/Doctor.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Lesson01/Doctor.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Lesson01/Duck.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Lesson01/Duck.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Lesson01/Eagle.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Lesson01/Eagle.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Lesson01/Fish.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Lesson01/Fish.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Lesson01/Flyble.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Lesson01/Flyble.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Lesson01/Goable.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Lesson01/Goable.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Lesson01/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Lesson01/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Lesson01/Nurse.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Lesson01/Nurse.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Lesson01/Penguin.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Lesson01/Penguin.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Lesson01/Swimble.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Lesson01/Swimble.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Lesson01/VeterinaryClinic.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Lesson01/VeterinaryClinic.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -133,8 +112,16 @@
       <workItem from="1703524803910" duration="1679000" />
       <workItem from="1703801681164" duration="53000" />
       <workItem from="1703804480385" duration="337000" />
-      <workItem from="1703804867847" duration="33000" />
+      <workItem from="1703804867847" duration="696000" />
     </task>
+    <task id="LOCAL-00001" summary="OOP3">
+      <created>1703804934659</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1703804934659</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -157,6 +144,8 @@
       <path value="$PROJECT_DIR$" />
       <path value="$PROJECT_DIR$/src/Pharmacy" />
     </ignored-roots>
+    <MESSAGE value="OOP3" />
+    <option name="LAST_COMMIT_MESSAGE" value="OOP3" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
