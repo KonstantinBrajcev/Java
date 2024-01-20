@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6d349964-f60c-4740-a6ee-f846befd2d1a" name="Changes" comment="OOP4_1Home">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -38,7 +39,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "D:/My_program/Java/OOP/Sem_OOP3",
+    "last_opened_file_path": "D:/My_program/Java/OOP/Sem_OOP4",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -76,6 +77,8 @@
       <workItem from="1704131720003" duration="33000" />
       <workItem from="1704131772236" duration="12063000" />
       <workItem from="1704314266952" duration="808000" />
+      <workItem from="1704322298546" duration="798000" />
+      <workItem from="1705739886184" duration="201000" />
     </task>
     <task id="LOCAL-00001" summary="OOP4">
       <created>1703805466664</created>
