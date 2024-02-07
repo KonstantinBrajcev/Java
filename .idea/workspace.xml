@@ -4,55 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="38391397-65b3-410e-b9ad-260f7ea18b42" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/OOP/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/Sem_OOP6/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/Sem_OOP6/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/Sem_OOP6/.idea/.name" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/Sem_OOP6/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/Sem_OOP6/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/Sem_OOP6/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/Sem_OOP6/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/Sem_OOP6/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/Sem_OOP6/Sem_OOP6.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/Sem_OOP6/log.0.0.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/Sem_OOP6/log.config" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/Sem_OOP6/order.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/Sem_OOP6/solid.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/Sem_OOP6/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/Sem_OOP6/src/dip1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/Sem_OOP6/src/dip1/model/Report.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/Sem_OOP6/src/dip1/model/ReportItem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/Sem_OOP6/src/dip1/model/util/ReportPrinter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/Sem_OOP6/src/homework/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/Sem_OOP6/src/homework/Persist.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/Sem_OOP6/src/homework/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/Sem_OOP6/src/isp1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/Sem_OOP6/src/isp1/pay/Payable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/Sem_OOP6/src/isp1/pay/impl/InternetPaymentService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/Sem_OOP6/src/isp1/pay/impl/TerminalPaymentService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/Sem_OOP6/src/logger/Log.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/Sem_OOP6/src/lsp1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/Sem_OOP6/src/lsp1/shape/Rectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/Sem_OOP6/src/lsp1/shape/Square.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/Sem_OOP6/src/lsp1/view/ShapeView.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/Sem_OOP6/src/lsp2/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/Sem_OOP6/src/lsp2/factory/OrderFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/Sem_OOP6/src/lsp2/model/Order.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/Sem_OOP6/src/lsp2/model/OrderBonus.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/Sem_OOP6/src/lsp2/util/OrderCalculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/Sem_OOP6/src/ocp1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/Sem_OOP6/src/ocp1/shape/Shape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/Sem_OOP6/src/ocp1/shape/impl/RightTriangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/Sem_OOP6/src/ocp1/shape/impl/Square.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/Sem_OOP6/src/srp1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/Sem_OOP6/src/srp1/figure/Point.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/Sem_OOP6/src/srp1/figure/Square.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/Sem_OOP6/src/srp2/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/Sem_OOP6/src/srp2/model/Order.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOP/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/OOP/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOP/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/OOP/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="38391397-65b3-410e-b9ad-260f7ea18b42" name="Changes" comment="New">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,7 +29,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "D:/My_program/Java/OOP/Sem_OOP5",
+    "last_opened_file_path": "D:/My_program/Java/OOP",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -133,6 +86,7 @@
       <workItem from="1703513821949" duration="62000" />
       <workItem from="1703516534709" duration="36000" />
       <workItem from="1707329544857" duration="199000" />
+      <workItem from="1707344619381" duration="74000" />
     </task>
     <servers />
   </component>
